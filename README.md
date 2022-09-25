@@ -4,7 +4,7 @@ author: "Christopher Davidson"
 date: "2022-09-25"
 output: pdf_document
 ---
-
+Please check out the pdf version for a version that includes the dataframes produced by the executed code.
 ```{r installation, include=FALSE}
 library("readr")
 library("dplyr")
