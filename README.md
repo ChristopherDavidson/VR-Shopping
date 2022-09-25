@@ -15,7 +15,7 @@ CustomerData <- read_csv2("CustomerData.csv")
 CustomerData$HaveChildren <- as.logical(as.double(CustomerData$HaveChildren))
 ```
 
-First of all I would like to thank the people who gave me this opportunity to prove my skills a data analyst and be able to showcase them. This is a Markdown document that will show all of the processes I went through whilst programming in R. Later, I exported the dataframe's I produced in R into PowerBI to be able to visualise the data in an easy way. Then create a report for the fictional stakeholders.
+First of all I would like to thank the people who gave me this opportunity to prove my skills a data analyst and be able to showcase them. This is a Markdown document that will show all of the processes I went through whilst programming in R. Later, I exported the dataframe's I produced in R into PowerBI to be able to visualise the data in an easy way. Then I will be creating a report for the fictional stakeholders which will give you the conclusion of what is being mentioned here. This is the process I went through for my analysis.
 
 ## Intro
 I was asked to do a case study into Users using VR to shop. I was given a CSV containing the data from the time when these users were in VR. The CSV file does not contain time stamps when people used VR, however it does contain the amount of time users spent looking at certain products in VR. This was useful to understand how interested they were in a certain product.
